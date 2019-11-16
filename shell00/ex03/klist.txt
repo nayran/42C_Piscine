@@ -1,0 +1,7 @@
+Credentials cache: API:1424260
+        Principal: nasimon-@42SP.ORG.BR
+
+  Issued                Expires               Principal
+Sep 30 20:26:27 2019  Oct  7 20:26:23 2019  krbtgt/42SP.ORG.BR@42SP.ORG.BR
+
+
